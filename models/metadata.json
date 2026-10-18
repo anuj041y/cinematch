@@ -1,0 +1,10 @@
+{
+  "trained_at": "2026-10-18T16:17:34.547158+00:00",
+  "movies": 45430,
+  "ratings": 0,
+  "users": 0,
+  "content_model": "TF-IDF n-grams + multi-hot genres, row-normalized cosine similarity",
+  "collaborative_model": "Centered item-based cosine similarity from observed MovieLens user ratings",
+  "evaluation": null,
+  "evaluation_note": "Metrics are generated from a sampled per-user holdout and are not claimed until this file is produced."
+}
